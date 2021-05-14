@@ -1,4 +1,4 @@
 # spotify
 
 https://leticiancalvess.github.io/spotify/
-![](imagem.png) 
+![](imagens/imagem.png) 
